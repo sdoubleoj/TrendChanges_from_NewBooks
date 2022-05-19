@@ -441,8 +441,8 @@ def tfidfscore_by_word(df, col_name, top_n ):
 
 
 # n-gram
-from sentence_transformers import SentenceTransformer
-def n_gram_keywords(doc, n_gram_range, top_n_words, n_candidates)
+#from sentence_transformers import SentenceTransformer
+def n_gram_keywords(doc, n_gram_range, top_n_words, n_candidates):
 
     okt = Okt()
     model = SentenceTransformer('sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens') # SBERT 모델 가져오기
