@@ -18,7 +18,7 @@
 
 <br>
 
-## 2. Process
+## 2. Process (code.ipynb)
 
 ▶ 데이터 수집
 
