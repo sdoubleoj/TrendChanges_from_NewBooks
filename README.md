@@ -16,3 +16,4 @@
 
 ## 2. 전체 프로세스
 - 데이터 수집
+<img width="50%" src="[https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif](https://user-images.githubusercontent.com/78069770/169304900-2ab3080a-57da-4a04-8f30-5a7a2238bd34.png)"/>
